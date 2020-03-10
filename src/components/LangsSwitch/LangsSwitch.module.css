@@ -1,0 +1,19 @@
+.langsHolder {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  background: #fff;
+  border: 1px solid #f0f0f0;
+}
+
+.langsHolder ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.langsHolder ul li {
+  flex: 0 0 auto;
+  padding: 10px;
+}
